@@ -78,12 +78,13 @@ Please note Postgresql will be the SQL language used and pgadmin4 will be the da
 
 ## Challenges 
          Challenges incldue:
-         a. The datssets were missing alot
-            of information.
-         b. Alot of errors while insertin
+         a. The datasets were missing 
+            alot of information.
+         b. Alot of duplicate data
+         c. Alot of errors while inserting
             the values into the tables in pgadmin4,
             was resolved by getting the right data types.
-         c. Writing the queries
+         d. Writing the queries
 
 ## Future Goals
     If I had more time, I would say it is relative.

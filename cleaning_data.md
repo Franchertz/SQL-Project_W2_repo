@@ -1,7 +1,9 @@
 What issues will you address by cleaning the data?
 
-Major issue faced was writing the right query. I was eally trying to understand what I was writing.
- Although I sought help, it was still hard.
+        Major issue faced was writing the
+        right query. I was 
+        really trying to understand what I was writing.
+        Although I sought help, it was still hard.
 
 
 
