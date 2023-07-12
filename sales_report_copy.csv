@@ -1,0 +1,455 @@
+productsku,total_ordered,name,stocklevel,restockingleadtime,sentimentscore,sentimentmagnitude,ratio,upr_total_ordered
+GGOEGAAX0081,42,Recycled Paper Journal Set,740,5,0.3,0.5,0.056756757,3
+GGOENEBQ084699,7, Learning Thermostat 3rd Gen-USA - White,1142,5,0.3,0.5,0.006129597,0
+GGOEGAAX0325,6, Men's Short Sleeve Hero Tee Charcoal,104,12,0,0.5,0.057692308,0
+GGOEYDHJ056099,50,22 oz  Bottle Infuser,1944,7,0.3,0.5,0.025720165,4
+GGOEADHH073999,167,Android 17oz Stainless Steel Sport Bottle,283,8,0.3,0.5,0.590106007,13
+GGOEWAEA083899,1, Dress Socks,20,6,0.3,0.5,0.05,0
+GGOEGAAJ032313,6, Men's Short Sleeve Hero Tee Charcoal,61,8,0.3,0.5,0.098360656,0
+GGOEGAAB033815,9, Men's Vintage Badge Tee Black,578,13,0.3,0.5,0.015570934,0
+GGOEGPJC203399,14,Crunch Noise Dog Toy,352,9,0.7,0.5,0.039772727,1
+GGOEGALB034113,16, Women's Vintage Hero Tee Black,153,14,0.3,0.5,0.104575163,1
+GGOEGHGH019699,14, Sunglasses,2086,6,0.5,0.5,0.006711409,1
+GGOENEBJ079499,94, Learning Thermostat 3rd Gen-USA - Stainless Steel,2525,7,0.3,0.5,0.037227723,7
+GGOEGOBG023599,3,Colored Pencil Set,367,13,0.3,0.5,0.008174387,0
+GGOEGAAX0620,20, Infant Short Sleeve Tee Green,52,7,0.3,0.5,0.384615385,1
+GGOEGDWR015799,5,Red Shine 15 oz Mug,1417,20,0.3,0.5,0.003528582,0
+GGOEGODR017799,39,Recycled Mouse Pad,1756,39,0.3,1,0.022209567,3
+GGOEGBJC014399,3, Tote Bag,155,6,0.6,1,0.019354839,0
+GGOENEBQ078999,112, Cam Outdoor Security Camera - USA,4683,10,0.6,1,0.023916293,9
+GGOEGAEQ027913,2, Women's Short Sleeve Hero Tee White,65,7,0.6,1,0.030769231,0
+GGOEGAAX0795,7,25L Classic Rucksack,114,6,0.7,1,0.061403509,0
+GGOEGGCX056199,1,Gift Card- $100.00,77,10,0.6,1,0.012987013,0
+GGOEGALB034115,4, Women's Vintage Hero Tee Black,213,9,0.6,1,0.018779343,0
+GGOEGHGT019599,14, Sunglasses,376,8,0.5,1,0.037234043,1
+GGOENEBD084799,10, Learning Thermostat 3rd Gen-USA - Copper,564,9,0.7,1,0.017730496,0
+GGOEGADB056915,3, Men's Performance Full Zip Jacket Black,70,18,0.6,1,0.042857143,0
+GGOEGAAX0617,6,Android Onesie Gold,53,6,0.6,1,0.113207547,0
+GGOEGAAX0626,2,Android Infant Short Sleeve Tee Pink,21,7,0.6,1,0.095238095,0
+GGOEGAAX0320,1,Android Men's Short Sleeve Hero Tee White,38,11,-0.1,1,0.026315789,0
+GGOEGAEJ028013,8, Women's Short Sleeve Hero Tee Grey,117,6,0.6,1,0.068376068,0
+GGOEGAAX0289,1, Women's Short Sleeve Hero Dark Grey,50,5,0.6,1.5,0.02,0
+GGOEGAAX0338,1, Men's Vintage Badge Tee Black,677,8,0.5,1.5,0.001477105,0
+GGOEGALB036516,4, Women's Scoop Neck Tee Black,23,5,0.1,0.3,0.173913043,0
+GGOEAAAP081217,2,Android Men's Take Charge Short Sleeve Tee Purple,7,15,0.1,0.3,0.285714286,0
+GGOEGCMB020932,5,Suitcase Organizer Cubes,342,7,0.8,0.3,0.014619883,0
+GGOEGAAL010614,12, Men's 100% Cotton Short Sleeve Hero Tee Navy,74,15,0.1,0.3,0.162162162,1
+GGOEGOCC077999,290, Spiral Journal with Pen,4668,10,0.1,0.3,0.062125107,24
+GGOEGCBB074199,2, Car Clip Phone Holder,205,5,0.2,0.3,0.009756098,0
+GGOEYAAB031814,1, Men's Short Sleeve Hero Tee Black,40,14,0.1,0.3,0.025,0
+GGOENEBQ079099,24, Protect Smoke + CO White Battery Alarm-USA,325,11,0.1,0.3,0.073846154,2
+GGOEGAAX0318,8, Men's Short Sleeve Hero Tee Black,275,6,-0.1,0.3,0.029090909,0
+GGOEGAEJ028115,1, Women's Short Sleeve Badge Tee Grey,13,8,0.1,0.3,0.076923077,0
+GGOEAAWJ062548,7,Android Infant Short Sleeve Tee Pewter,2,14,0.1,0.3,3.5,0
+GGOEGAEJ031315,18, Tri-blend Hoodie Grey,34,12,0.2,0.3,0.529411765,1
+GGOENEBB078899,102, Cam Indoor Security Camera - USA,2615,42,0.2,0.3,0.039005736,8
+GGOEGPJC019099,52,7 Dog Frisbee,154,11,0.8,0.3,0.337662338,4
+GGOEGHPB003410,1, Snapback Hat Black,105,3,0.1,0.3,0.00952381,0
+GGOEGALQ034213,5, Women's Vintage Hero Tee White,94,6,0.2,0.3,0.053191489,0
+GGOEGOAQ020099,22,Four Color Retractable Pen,2450,22,0.2,0.3,0.008979592,1
+GGOEYFKQ020699,30, Custom Decals,4536,14,0.1,0.3,0.006613757,2
+GGOEGOAB022499,105,Satin Black Ballpoint Pen,477,2,0.1,0.3,0.220125786,8
+GGOEGKAA019299,34,Switch Tone Color Crayon Pen,388,12,0.2,0.3,0.087628866,2
+GGOEGAYB068056,3, Youth Baseball Raglan Heather/Black,2,13,0.3,0.6,1.5,0
+GGOEGAAJ032317,2, Men's Short Sleeve Hero Tee Charcoal,25,8,0.3,0.6,0.08,0
+GGOEGHPJ080310,189, Blackout Cap,415,6,0.3,0.6,0.455421687,15
+GGOEGFSR022099,3, Kick Ball,723,5,0.6,0.6,0.004149378,0
+GGOEYHPB072210,9, Twill Cap,1997,2,0.3,0.6,0.00450676,0
+GGOEGAAB010515,1, Men's 100% Cotton Short Sleeve Hero Tee Black,193,19,0.4,0.6,0.005181347,0
+GGOEGADJ056814,4, Men's Watershed Full Zip Hoodie Grey,57,9,0.3,0.6,0.070175439,0
+GGOEYAAJ033014,30, Men's Long & Lean Tee Charcoal,42,11,0.4,0.6,0.714285714,2
+GGOEGAAX0279,4, Women's Short Sleeve Hero Tee White,41,5,0.1,0.6,0.097560976,0
+GGOEAFKQ020499,19,8 pc Android Sticker Sheet,613,12,0.7,1.2,0.030995106,1
+GGOEGAAJ032816,22, Men's Long & Lean Tee Charcoal,309,16,0.8,1.2,0.071197411,1
+GGOEGOLC013299,69,Spiral Notebook and Pen Set,6708,11,0.8,1.2,0.010286225,5
+GGOEGFYQ016599,253,Foam Can and Bottle Cooler,4495,10,0.7,1.2,0.056284761,21
+GGOEGOAQ018099,3,Pen Pencil & Highlighter Set,1939,5,0.7,1.2,0.001547189,0
+GGOEGFKA022299,53,Keyboard DOT Sticker,189,9,0.7,1.2,0.28042328,4
+GGOEGAAX0309,1,Android Women's Long Sleeve Blended Cardigan Grey,28,18,0.4,1.2,0.035714286,0
+GGOEGBPB021199,13, Slim Utility Travel Bag,516,12,0.8,1.2,0.025193798,1
+GGOEGAAC035014,2, Men's Bayside Graphic Tee,9,14,0.7,1.2,0.222222222,0
+GGOEGBPB081999,1,UpCycled Bike Saddle Bag,79,12,0.2,1.2,0.012658228,0
+GGOEGADJ056815,2, Men's Watershed Full Zip Hoodie Grey,105,17,0.8,1.2,0.019047619,0
+GGOEYOCR077799,85, Hard Cover Journal,2046,13,0.5,0.8,0.041544477,7
+GGOEGAAX0591,3, Men's Short Sleeve Performance Badge Tee Pewter,29,15,0.6,1.7,0.103448276,0
+GGOEGOAQ012899,456,Ballpoint LED Light Pen,2098,11,0.4,0.7,0.217349857,38
+GGOEYAAJ032514,2, Men's Short Sleeve Hero Tee Charcoal,41,12,0.4,0.7,0.048780488,0
+GGOEGAAX0781,82, Leather Journal,181,8,0.4,0.7,0.453038674,6
+GGOEGAAX0625,3,Android Infant Short Sleeve Tee Pewter,23,16,0.4,0.7,0.130434783,0
+GGOEGFKQ020399,13, Laptop and Cell Phone Stickers,1516,3,0.4,0.7,0.008575198,1
+GGOEGHPB080410,7, 5-Panel Snapback Cap,219,8,0.3,0.7,0.03196347,0
+GGOEGGOA017399,3,Maze Pen,324,9,0.4,0.7,0.009259259,0
+GGOEGAYQ069056,1, Youth Short Sleeve Tee White,14,6,0.4,0.7,0.071428571,0
+GGOEGAAX0341,6, Women's Vintage Hero Tee Black,332,19,0.1,0.7,0.018072289,0
+GGOEAAEJ033413,8,Android Men's Long Sleeve Badge Crew Tee Heather,43,14,0.4,0.7,0.186046512,0
+GGOEGAAQ010415,11, Men's 100% Cotton Short Sleeve Hero Tee White,335,9,0.4,0.7,0.032835821,0
+GGOEGDHR018499,16, 22 oz Water Bottle,1482,9,0.4,0.7,0.010796221,1
+GGOEGAAQ010414,17, Men's 100% Cotton Short Sleeve Hero Tee White,186,16,0.9,1.4,0.091397849,1
+GGOEGOAB021499,48,Metal Texture Roller Pen,775,3,0.9,1.4,0.061935484,4
+GGOEGAAX0313,11, Tri-blend Hoodie Grey,101,15,0.5,1.4,0.108910891,0
+GGOEGAAX0351,2, Men's Vintage Henley,133,9,-0.5,1.4,0.015037594,0
+GGOEGEHQ024099,25,Clip-on Compact Charger,1468,11,-0.3,1.4,0.017029973,2
+GGOEGOCR017899,30,Recycled Paper Journal Set,4975,13,0.9,1.4,0.006030151,2
+GGOEGOAR013099,2, Stylus Pen w/ LED Light,2164,39,0.9,1.4,0.000924214,0
+GGOEYAAJ032515,5, Men's Short Sleeve Hero Tee Charcoal,33,18,0.9,1.4,0.151515152,0
+GGOEGESC014099,16,Rocket Flashlight,242,11,0.2,1.4,0.066115702,1
+GGOEGOLC014299,2, Metallic Notebook Set,610,5,0,0.1,0.003278689,0
+GGOEGBRA037499,5,Waterproof Backpack,230,10,0,0.1,0.02173913,0
+GGOEGFAQ016699,11,Bottle Opener Clip,381,10,0.6,0.1,0.028871391,0
+GGOEWFKA083199,5, Mood Original Window Decal,66,8,0,0.1,0.075757576,0
+GGOEGBRJ037399,11, Rucksack,228,5,0,0.1,0.048245614,0
+GGOEGAAR010715,16, Men's 100% Cotton Short Sleeve Hero Tee Red,146,14,0,0.1,0.109589041,1
+GGOEGALQ036616,7, Women's Scoop Neck Tee White,27,14,0,0.1,0.259259259,0
+GGOEGHGR019499,26, Sunglasses,1195,5,0.4,0.2,0.021757322,2
+GGOEGAXQ067155,4, Toddler Short Sleeve Tee White,9,15,0.1,0.2,0.444444444,0
+GGOEGAYQ069025,5, Youth Short Sleeve Tee White,11,7,0.1,0.2,0.454545455,0
+GGOEGAAL010616,19, Men's 100% Cotton Short Sleeve Hero Tee Navy,50,5,0.1,0.2,0.38,1
+GGOEGAEJ028114,1, Women's Short Sleeve Badge Tee Grey,21,12,0.1,0.2,0.047619048,0
+GGOENEBQ079199,42, Protect Smoke + CO White Wired Alarm-USA,1361,13,0,0.2,0.030859662,3
+GGOEGALL074614,6, Women's Short Sleeve Badge Tee Navy,31,19,0,0.2,0.193548387,0
+GGOEGOCR078499,3, Spiral Leather Journal,449,9,0.1,0.2,0.006681514,0
+GGOEGOBC078699,6, Luggage Tag,713,13,0.1,0.2,0.008415147,0
+GGOEGFQB013799,5,Compact Selfie Stick,297,7,0.3,0.2,0.016835017,0
+GGOEGAAX0330,20, Men's Long & Lean Tee Charcoal,43,12,-0.2,0.2,0.465116279,1
+GGOEGAAX0105,4, Men's 100% Cotton Short Sleeve Hero Tee Black,105,19,-0.2,0.2,0.038095238,0
+GGOEGBJL013999,62, Canvas Tote Natural/Navy,602,3,0,0.2,0.102990033,5
+GGOEGCBQ016499,60,SPF-15 Slim & Slender Lip Balm,4069,31,0.7,0.2,0.014745638,5
+GGOEGAAX0098,104,7 Dog Frisbee,376,5,-0.6,0.2,0.276595745,8
+GGOEGAAX0690,7, Youth Short Sleeve Tee White,31,19,0,0.2,0.225806452,0
+GGOEGBRB013899,3, Laptop Backpack,178,16,0.1,0.2,0.016853933,0
+GGOEGEHQ071199,2," High Capacity 10,400mAh Charger",84,17,-0.2,0.2,0.023809524,0
+GGOEGALB036515,4, Women's Scoop Neck Tee Black,62,13,0.1,0.2,0.064516129,0
+GGOEADWQ015699,2,Android Rise 14 oz Mug,342,7,0.1,0.2,0.005847953,0
+GGOEAAEH035216,1,Android Men's Vintage Henley,2,16,0.2,0.4,0.5,0
+GGOEAKDH019899,16,Windup Android,1674,5,0.4,0.4,0.009557945,1
+GGOEGALB034114,7, Women's Vintage Hero Tee Black,155,8,0.2,0.4,0.04516129,0
+GGOEGAAQ010413,10, Men's 100% Cotton Short Sleeve Hero Tee White,167,7,0.2,0.4,0.05988024,0
+GGOENEBJ081899,8, Learning Thermostat 3rd Gen - CA - Stainless Steel,69,14,0.2,0.4,0.115942029,0
+GGOEGAAR010716,1, Men's 100% Cotton Short Sleeve Hero Tee Red,90,12,0.2,0.4,0.011111111,0
+GGOEGAAX0610,1, Onesie Red/Graphite,63,19,0.2,0.4,0.015873016,0
+GGOEGBMJ013399,70,Sport Bag,2877,9,0.3,0.4,0.0243309,5
+GGOEGAYB068025,4, Youth Baseball Raglan Heather/Black,7,14,0.2,0.4,0.571428571,0
+GGOEGOXQ016399,33,Badge Holder,1186,2,0.2,0.4,0.027824621,2
+GGOEADHH055999,2,22 oz Android Bottle,738,4,0.2,0.4,0.002710027,0
+GGOEGALQ034215,3, Women's Vintage Hero Tee White,37,19,0.2,0.4,0.081081081,0
+GGOEAFKQ020599,11,Android Sticker Sheet Ultra Removable,449,13,0.6,0.4,0.024498886,0
+GGOEGEVA022399,4,Micro Wireless Earbud,234,16,0.6,0.4,0.017094017,0
+GGOEGAAX0358,3, Men's  Zip Hoodie,235,16,-0.1,0.4,0.012765957,0
+GGOEGAAJ059114,1, Men's Short Sleeve Performance Badge Tee Pewter,107,7,0.5,0.8,0.009345794,0
+GGOEGOCC077299,19, RFID Journal,2839,13,0.5,0.8,0.006692497,1
+GGOEGALB034116,1, Women's Vintage Hero Tee Black,121,9,0.5,0.8,0.008264463,0
+GGOEGOFH020299,12, Screen Cleaning Cloth,1324,5,0.7,0.8,0.009063444,1
+GGOEGAAJ032614,6, Men's Short Sleeve Badge Tee Charcoal,97,5,0.5,0.8,0.06185567,0
+GGOEGESB015099,11,Basecamp Explorer Powerbank Flashlight,306,14,-0.3,0.8,0.035947712,0
+GGOEACCQ017299,3,Android Lunch Kit,163,12,-0.2,0.8,0.018404908,0
+GGOEAAEJ035714,5,Android Men's Vintage Tank,64,15,0.5,0.8,0.078125,0
+GGOEGDHQ015399,97,26 oz Double Wall Insulated Bottle,256,9,0.5,0.8,0.37890625,8
+GGOEGALQ036613,2, Women's Scoop Neck Tee White,59,6,0.5,0.8,0.033898305,0
+GGOEGOCB078299,250, Leather Journal-Black,354,10,0.5,0.8,0.706214689,20
+GGOEGAAJ032815,4, Men's Long & Lean Tee Charcoal,251,19,0.5,0.8,0.015936255,0
+GGOEGAAL010613,10, Men's 100% Cotton Short Sleeve Hero Tee Navy,37,16,0.7,1.1,0.27027027,0
+GGOEGAAX0731,2, Men's Fleece Hoodie Black,142,17,0.3,1.1,0.014084507,0
+GGOEGAEQ027915,4, Women's Short Sleeve Hero Tee White,51,12,0.7,1.1,0.078431373,0
+GGOEAAEJ033415,6,Android Men's Long Sleeve Badge Crew Tee Heather,92,8,0.7,1.1,0.065217391,0
+GGOEGKWQ060910,7, Bib White,116,6,0.7,1.1,0.060344828,0
+GGOEGDHC015299,10,23 oz Wide Mouth Sport Bottle,142,12,0.7,1.1,0.070422535,0
+GGOEGAAX0651,3, Toddler Short Sleeve Tee Red,71,18,0.7,1.1,0.042253521,0
+GGOEAAAP081214,3,Android Men's Take Charge Short Sleeve Tee Purple,68,8,0.7,1.1,0.044117647,0
+GGOEGAAX0074,40, 22 oz Water Bottle,15607,2,0.7,1.1,0.002562953,3
+GGOEGAYB068026,8, Youth Baseball Raglan Heather/Black,21,16,0.7,1.1,0.380952381,0
+GGOEGAAJ032814,3, Men's Long & Lean Tee Charcoal,295,15,0.7,1.1,0.010169492,0
+GGOEGAAX0297,1, Women's Short Sleeve Hero Tee Red Heather,16,6,0.3,1.1,0.0625,0
+GGOEGCKQ013199,6,1 oz Hand Sanitizer,679,3,0.5,1.1,0.008836524,0
+GGOEGAAB033814,1, Men's Vintage Badge Tee Black,395,14,0.7,1.1,0.002531646,0
+GGOEGATB060214,3, Women's 1/4 Zip Performance Pullover Black,8,19,0.7,1.1,0.375,0
+GGOEGHGC019799,35, Sunglasses,2444,13,0.4,1.1,0.014320786,2
+GGOEGAAX0366,2, Women's Scoop Neck Tee White,81,18,0.6,1.6,0.024691358,0
+GGOEGBJC019999,43,Collapsible Shopping Bag,117,11,0.5,0.9,0.367521368,3
+GGOEGAAX0622,2, Infant Short Sleeve Tee White,55,19,0.6,0.9,0.036363636,0
+GGOEGGCX056299,5,Gift Card - $25.00,107,10,0.6,0.9,0.046728972,0
+GGOEYAFB073115,2, Men's Fleece Hoodie Black,175,17,0.5,0.9,0.011428571,0
+GGOEGAAX0104,15, Men's 100% Cotton Short Sleeve Hero Tee White,749,12,0.2,0.9,0.020026702,1
+GGOEGKWR060810,7, Bib Red,44,15,0.6,0.9,0.159090909,0
+GGOEGOCB017499,319,Leatherette Journal,4978,36,0.5,0.9,0.064081961,26
+GGOEGAAX0106,13, Men's 100% Cotton Short Sleeve Hero Tee Navy,29,6,0.2,0.9,0.448275862,1
+GGOEGESQ016799,10,Plastic Sliding Flashlight,2561,14,0.5,0.9,0.003904725,0
+GGOEGAAJ032716,8, Men's Long & Lean Tee Grey,26,17,0.6,0.9,0.307692308,0
+GGOEA0CH077599,15,Android Hard Cover Journal,102,17,0.5,0.9,0.147058824,1
+GGOEGAAJ032714,1, Men's Long & Lean Tee Grey,81,14,0.6,0.9,0.012345679,0
+GGOEAHPJ004314,1,Android Stretch Fit Hat M/L,59,13,0.5,0.9,0.016949153,0
+GGOEGAAJ080615,8, Men's Bike Short Sleeve Tee Charcoal,129,5,0.6,0.9,0.062015504,0
+GGOEWFKA082999,6, Baby on Board Window Decal,415,11,0.6,0.9,0.014457831,0
+GGOEGAAX0278,3, Women's Short Sleeve Hero Tee Black,121,16,0.2,0.9,0.024793388,0
+GGOEGAWR061850,1, Infant Short Sleeve Tee Red,4,13,0.5,0.9,0.25,0
+GGOEGAAB010514,6, Men's 100% Cotton Short Sleeve Hero Tee Black,1101,10,0.5,0.9,0.005449591,0
+GGOEGAAX0680,5, Youth Baseball Raglan Heather/Black,28,13,0.6,0.9,0.178571429,0
+GGOEGFKQ020799,34, Doodle Decal,2080,5,0.5,0.9,0.016346154,2
+GGOEGAWR061848,7, Infant Short Sleeve Tee Red,18,19,0.6,0.9,0.388888889,0
+GGOEGBRJ037299,3, Alpine Style Backpack,272,12,0.6,0.9,0.011029412,0
+GGOEGAAX0037,146, Sunglasses,6805,5,0.5,0.9,0.021454813,12
+GGOEGOCD078399,39, Leather Perforated Journal,1305,13,0.8,1.3,0.029885057,3
+GGOEGHPB071610,3, Twill Cap,1755,5,0.8,1.3,0.001709402,0
+GGOEGAEB027813,1, Women's Short Sleeve Hero Tee Black,252,11,0.8,1.3,0.003968254,0
+GGOEGCNB021099,9,Seat Pack Organizer,304,11,-0.4,1.3,0.029605263,0
+GGOEGDHC074099,334, 17oz Stainless Steel Sport Bottle,1390,13,0.8,1.3,0.24028777,27
+GGOEGAFB035816,3, Men's  Zip Hoodie,41,10,0.8,1.3,0.073170732,0
+GGOEGDHC018299,23, 22 oz Water Bottle,19678,4,0.9,1.3,0.001168818,1
+GGOEGATJ060516,2, Women's Quilted Insulated Vest White,5,5,0.8,1.3,0.4,0
+GGOEGAAX0655,2, Toddler Short Sleeve T-shirt Grey,123,5,0.8,1.3,0.016260163,0
+GGOEAAAQ032013,6,Android Men's Short Sleeve Hero Tee White,95,15,0.9,1.3,0.063157895,0
+GGOEGAAX0682,3, Youth Short Sleeve Tee Red,31,14,0.9,1.3,0.096774194,0
+GGOEAAEJ033414,8,Android Men's Long Sleeve Badge Crew Tee Heather,95,13,0.8,1.3,0.084210526,0
+GGOEGAAC035016,2, Men's Bayside Graphic Tee,3,14,0.9,1.3,0.666666667,0
+GGOEGAEJ028015,6, Women's Short Sleeve Hero Tee Grey,138,16,0.8,1.3,0.043478261,0
+GGOEWEBB082699,4, Mobile Phone Vent Mount,129,15,0.7,1.3,0.031007752,0
+GGOEGOCL077699,20, Hard Cover Journal,2171,14,0.9,1.3,0.009212345,1
+GGOEAAEH035213,4,Android Men's Vintage Henley,19,6,0.8,1.3,0.210526316,0
+GGOEGAAX0606,1, Women's Convertible Vest-Jacket Black,48,10,-0.3,1.8,0.020833333,0
+GGOEGAAX0334,2,Android Men's Long Sleeve Badge Crew Tee Heather,87,13,-0.1,1.8,0.022988506,0
+GGOEGAAX0581,0, Women's Colorblock Tee White,0,8,0.8,2,,0
+9182755,0, Men's Colorblock Tee White/Heather,0,14,0.3,0.5,,0
+9184720,0, Women's Short Sleeve Hero Tee Sky Blue,0,16,0.3,0.5,,0
+9182723,0, Men's 100% Cotton Short Sleeve Hero Tee White,0,11,0.3,0.5,,0
+9180850,0,Ballpoint Stylus Pen,0,6,0.3,0.5,,0
+9182772,0, Women's Performance Full Zip Jacket Black,0,14,0.3,0.5,,0
+9183118,0, Women's Fleece Hoodie Black,0,6,0.3,0.5,,0
+9183203,0, Device Holder Sticky Pad,0,8,0.3,0.5,,0
+9183234,0, Learning Thermostat 3rd Gen-USA - Stainless Steel,0,8,0.2,0.5,,0
+9182778,0, Women's Softshell Jacket Black/Grey,0,13,0.6,1,,0
+9182780,0, Women's Shell Jacket Blue/Black,0,16,0.6,1,,0
+9182980,0, Pet Feeding Mat,0,8,0.6,1,,0
+9180757,0,Yoga Block,0,13,0.1,0.3,,0
+9181573,0, Snapback Hat Black,0,12,0.1,0.3,,0
+9181019,0, Tri-blend Hoodie Grey,0,19,0.1,0.3,,0
+9182739,0, Men's Watershed Full Zip Hoodie Grey,0,14,0.2,0.3,,0
+9182569,0, Men's  Zip Hoodie,0,10,0.4,0.6,,0
+9182743,0, Men's Microfiber 1/4 Zip Pullover Blue/Indigo,0,7,0.4,0.6,,0
+9182771,0, Women's 1/4 Zip Jacket Charcoal,0,6,0.4,0.6,,0
+9182751,0, Men's Performance Full Zip Jacket Black,0,14,0.3,0.6,,0
+9182737,0, Women's 3/4 Sleeve Baseball Raglan Heather/Black,0,17,0.4,0.6,,0
+9182502,0, Women's Yoga Jacket Black,0,10,0.8,1.2,,0
+9182785,0, Women's Lightweight Microfleece Jacket,0,8,0.8,1.2,,0
+9184734,0, Learning Thermostat 3rd Gen-USA - Copper,0,19,0.7,1.2,,0
+9180905,0, Men's Long Sleeve Raglan Ocean Blue,0,13,0.8,1.2,,0
+9182742,0, Men's Convertible Vest-Jacket Pewter,0,17,0.8,1.2,,0
+9183186,0, G Noise-reducing Bluetooth Headphones,0,11,0.8,1.2,,0
+9181150,0,Gift Card - $250.00,0,12,0.4,0.7,,0
+9180782,0,Seat Pack Organizer,0,7,0.4,0.7,,0
+9182559,0,Android Men's Vintage Henley,0,12,0.4,0.7,,0
+9183226,0,Android Luggage Tag,0,7,0.4,0.7,,0
+9183228,0, Cam Indoor Security Camera - USA,0,10,0.4,0.7,,0
+9182752,0, Men's Short Sleeve Performance Badge Tee Charcoal,0,19,0.4,0.7,,0
+9182383,0, Men's Watershed Full Zip Hoodie Grey,0,7,0.9,1.4,,0
+GGOEGAAX0349,0,Android BTTF Moonshot Graphic Tee,0,15,0.5,1.4,,0
+GGOEWXXX0827,0, Women's Short Sleeve Tee,0,14,0.7,1.9,,0
+GGOEGAAX0598,0, Men's Convertible Vest-Jacket Pewter,0,17,0.2,1.9,,0
+9184676,0,UpCycled Handlebar Bag,0,7,0,0.1,,0
+9180808,0,Basecamp Explorer Powerbank Flashlight,0,5,0,0.1,,0
+9180862,0, Screen Cleaning Cloth,0,15,0,0.1,,0
+9182765,0, Women's Convertible Vest-Jacket Sea Foam Green,0,10,0.1,0.2,,0
+9183221,0, Leather Journal-Black,0,15,0,0.2,,0
+9183223,0, Spiral Leather Journal,0,18,0.1,0.2,,0
+9182726,0, Men's Long & Lean Tee Charcoal,0,18,0.1,0.2,,0
+9180824,0,Foam Can and Bottle Cooler,0,16,0.2,0.4,,0
+9181137,0, Alpine Style Backpack,0,14,0.2,0.4,,0
+9180833,0,Rubber Grip Ballpoint Pen 4 Pack,0,5,0.2,0.4,,0
+9184737,0, Pack of 9 Decal Set,0,14,0.2,0.4,,0
+9182709,0,Android Women's Long Sleeve Blended Cardigan Grey,0,6,0.2,0.4,,0
+9180748,0,Android Lunch Kit,0,12,0.2,0.4,,0
+GGOEGDHB072099,0, Insulated Stainless Steel Bottle,0,16,0.2,0.4,,0
+9180781,0,Suitcase Organizer Cubes,0,7,0.2,0.4,,0
+9182173,0, Stylus Pen w/ LED Light,0,11,0.2,0.4,,0
+GGOEWXXX0834,0, Women's Typography Short Sleeve Tee,0,18,0,0.4,,0
+9183213,0,Android Hard Cover Journal,0,18,0.5,0.8,,0
+9182722,0, Men's 100% Cotton Short Sleeve Hero Tee Navy,0,7,0.5,0.8,,0
+9180814,0,Micro Wireless Earbud,0,5,0.5,0.8,,0
+9180809,0, Flashlight,0,14,0.5,0.8,,0
+9184620,0, Men's Performance Full Zip Jacket Black,0,9,0.5,0.8,,0
+9182605,0, Women's Tee Grey,0,13,0.5,0.8,,0
+9181139,0,Waterproof Backpack,0,18,0.5,0.8,,0
+9183240,0,25L Classic Rucksack,0,5,0.7,1.1,,0
+9183230,0, Protect Smoke + CO White Battery Alarm-USA,0,7,0.7,1.1,,0
+9182781,0, Women's Short Sleeve Hero Tee Black,0,9,0.7,1.1,,0
+9182721,0, Men's 100% Cotton Short Sleeve Hero Tee Black,0,5,0.7,1.1,,0
+9182784,0, Women's Short Sleeve Hero Tee White,0,12,0.7,1.1,,0
+9182714,0, Men's Long Sleeve Raglan Ocean Blue,0,18,0.6,0.9,,0
+9180793,0,26 oz Double Wall Insulated Bottle,0,8,0.5,0.9,,0
+9180766,0,Sport Bag,0,8,0.5,0.9,,0
+9184675,0,UpCycled Bike Saddle Bag,0,8,0.5,0.9,,0
+9184733,0, Learning Thermostat 3rd Gen-USA - White,0,11,0.6,0.9,,0
+9183241,0,25L Classic Rucksack,0,16,0.9,1.3,,0
+9183229,0, Cam Outdoor Security Camera - USA,0,18,0.8,1.3,,0
+9183239,0,25L Classic Rucksack,0,19,0.8,1.3,,0
+9182745,0, Men's Quilted Insulated Vest Black,0,9,0.9,1.3,,0
+9183222,0, Leather Perforated Journal,0,7,0.8,1.3,,0
+9180769,0, Laptop Backpack,0,7,0.8,1.3,,0
+9183219,0, Leather Journal,0,9,0.8,1.3,,0
+GGOEGEVB070599,0, G Noise-reducing Bluetooth Headphones,132,7,0.9,0.5,0,0
+GGOEGAAX0365,0, Women's Scoop Neck Tee Black,73,6,0,0.5,0,0
+GGOEGAAX0296,0, Women's Short Sleeve Tri-blend Badge Tee Grey,33,15,0,0.5,0,0
+GGOEGAAX0339,0, Men's Vintage Badge Tee White,210,9,0.1,0.5,0,0
+GGOEGAAX0683,0, Youth Short Sleeve T-shirt Royal Blue,5,17,0.3,0.5,0,0
+GGOEGEHQ072599,0, 4400mAh Power Bank,65,7,0.4,0.5,0,0
+GGOEGBFC018799,0,Electronics Accessory Pouch,568,29,0.4,1,0,0
+GGOEGAAX0042,0,Android Stretch Fit Hat,41,16,0.6,1,0,0
+GGOEGAAX0324,0,Android Men's Short Sleeve Tri-blend Hero Tee Grey,3,16,0.2,1,0,0
+GGOEGAAX0592,0, Men's Airflow 1/4 Zip Pullover Black,8,9,-0.2,1.5,0,0
+GGOEGAAX0746,0, Women's Short Sleeve Badge Tee Navy,8,17,0.6,1.5,0,0
+GGOEGOAA017199,0,Rubber Grip Ballpoint Pen 4 Pack,1791,3,0.1,0.3,0,0
+GGOEGAAX0329,0,Android Men's Long & Lean Badge Tee Charcoal,65,18,-0.3,0.3,0,0
+GGOEGAAX0361,0,Android Women's Fleece Hoodie,21,13,-0.1,0.3,0,0
+GGOEGOAR013599,0,Ballpoint Stylus Pen,942,5,0.2,0.3,0,0
+GGOEGAAX0327,0, Men's Long & Lean Tee Grey,5,6,-0.1,0.3,0,0
+GGOEGBPB082099,0,UpCycled Handlebar Bag,107,12,0.1,0.6,0,0
+GGOEGAAX0595,0, Men's Microfiber 1/4 Zip Pullover Blue/Indigo,9,7,-0.5,0.6,0,0
+GGOEAXXX0810,0,Android Men's Outerstellar Short Sleeve Tee Black,3,6,0,0.6,0,0
+GGOEGBMC056599,0,Waterproof Gear Bag,261,15,-0.1,1.2,0,0
+GGOEGHPJ080110,0, 5-Panel Cap,87,5,0.8,1.2,0,0
+GGOEGAAX0306,0, Women's Recycled Fabric Tee,16,10,0.4,1.2,0,0
+GGOEAHPA004110,0,Android Wool Heather Cap Heather/Black,305,9,0.2,1.2,0,0
+GGOEWXXX0828,0, Men's Short Sleeve Tee,1,14,0.4,1.2,0,0
+GGOENEBQ081699,0, Protect Smoke + CO White Battery Alarm - CA,25,9,0.8,1.2,0,0
+GGOEGAAX0353,0, Vintage Henley Grey/Black,95,10,0.4,1.2,0,0
+GGOEGAAX0282,0,Android Women's Short Sleeve Badge Tee Dark Heather,19,15,-0.4,1.2,0,0
+GGOEGAAX0168,0, Pet Feeding Mat,83,18,-0.4,1.2,0,0
+GGOEGAAX0686,0, Youth Short Sleeve Tee Red,40,6,0.7,1.2,0,0
+GGOEAOBH078799,0,Android Luggage Tag,32,15,0.4,0.7,0,0
+GGOEWFKA083299,0, Mood Ninja Window Decal,94,6,0.9,1.4,0,0
+GGOEGAAX0590,0, Men's Short Sleeve Performance Badge Tee Navy,21,9,0.1,1.4,0,0
+GGOEGAAX0304,0, Women's 3/4 Sleeve Baseball Raglan Heather/Black,26,9,0.5,1.4,0,0
+GGOEGAAX0323,0, Men's Short Sleeve Hero Tee Charcoal,20,19,0.5,1.4,0,0
+GGOEGAAX0582,0, Women's Lightweight Microfleece Jacket,3,19,0.5,1.4,0,0
+GGOEGAAX0593,0, Men's Airflow 1/4 Zip Pullover Lapis,23,8,0,1.4,0,0
+GGOEGAAX0350,0, Men's Bayside Graphic Tee,33,8,0.9,1.4,0,0
+GGOEGAAX0570,0, Men's Short Sleeve Performance Badge Tee Charcoal,57,14,0.5,1.4,0,0
+GGOEGAAX0331,0, Men's Long Sleeve Raglan Ocean Blue,10,17,0.1,1.9,0,0
+GGOEGAAX0348,0,Android BTTF Cosmos Graphic Tee,4,15,0.7,1.9,0,0
+GGOEGAAX0340,0, Men's Vintage Badge Tee Sage,442,9,-0.2,0.1,0,0
+GGOENEBQ081599,0, Cam Outdoor Security Camera - CA,40,18,0,0.1,0,0
+GGOEGAAX0355,0, Men's Vintage Tank,31,17,-0.1,0.2,0,0
+GGOEGGCX056499,0,Gift Card - $50.00,9,14,0.1,0.2,0,0
+GGOEGEHQ072499,0, 2200mAh Micro Charger,38,11,0.7,0.2,0,0
+GGOEGACB023699,0,Yoga Block,78,14,0.1,0.2,0,0
+GGOEGAAX0603,0, Women's 1/4 Zip Performance Pullover Two-Tone Blue,15,19,-0.1,0.4,0,0
+GGOEGAAX0572,0, Men's Colorblock Tee White/Heather,1,8,0.2,0.8,0,0
+GGOEGDHR082199,0, 25 oz Red Stainless Steel Bottle,341,30,0.5,0.8,0,0
+GGOEWFKA083099,0, Mood Happy Window Decal,26,6,0.5,0.8,0,0
+GGOEGAAX0328,0, Men's Long & Lean Tee Charcoal,11,14,0.1,0.8,0,0
+GGOEGESB015199,0, Flashlight,13,6,0.7,0.8,0,0
+GGOEGAAX0604,0, Women's Quilted Insulated Vest Black,10,11,0.1,0.8,0,0
+GGOEGAAX0231,0, Collapsible Pet Bowl,59,15,0.5,0.8,0,0
+GGOEGGCX056399,0,Gift Card - $250.00,38,10,0.7,1.1,0,0
+GGOEGOAJ021599,0,Gunmetal Roller Ball Pen,1321,36,0.7,1.1,0,0
+GGOEAHPJ074410,0,Android Twill Cap,161,5,0.7,1.1,0,0
+GGOEGBCR024399,0, Lunch Bag,290,11,0.4,1.1,0,0
+GGOEGAAX0605,0, Women's Quilted Insulated Vest White,16,9,0.6,1.6,0,0
+GGOEGAAX0580,0, Women's 1/4 Zip Jacket Charcoal,7,18,-0.1,0.9,0,0
+GGOEAHPB080210,0,Android 5-Panel Low Cap,11,16,0.5,0.9,0,0
+GGOEGHPL003214,0, Stretch Fit Hat M/L Navy,6,6,0.6,0.9,0,0
+GGOEGCVB072399,0, Executive Umbrella,458,5,0.6,1.3,0,0
+GGOEGAAX0588,0, Women's Shell Jacket Blue/Black,5,7,0,1.3,0,0
+GGOEGCBB074399,0, Device Holder Sticky Pad,94,8,0.1,1.3,0,0
+GGOEGAAX0575,0, Women's Weatherblock Shell Jacket Black,1,13,0.4,1.3,0,0
+GGOENEBQ081799,0, Protect Smoke + CO White Wired Alarm - CA,49,15,0.8,1.3,0,0
+GGOEGAAX0607,0, Women's Convertible Vest-Jacket Sea Foam Green,25,8,-0.5,1.8,0,0
+GGOEGAAX0356,0, Men's Vintage Tank,119,15,0.7,1.8,0,0
+GGOEGAAX0732,0, Women's Fleece Hoodie Black,5,17,0.7,1.8,0,0
+GGOEWXXX0835,0, Men's Typography Short Sleeve Tee,1,11,0.7,1.8,0,0
+GGOEGAAX0567,0, Men's Softshell Jacket Black/Grey,1,12,0.7,1.8,0,0
+GGOEGAAX0596,1, Men's Quilted Insulated Vest Black,32,8,0.8,2,0.03125,0
+GGOEAAWN062648,1,Android Infant Short Sleeve Tee Pink,32,17,0.6,1,0.03125,0
+GGOEAHPB076114,1,Android Stretch Fit Hat,8,5,0.3,0.5,0.125,0
+GGOEGAEJ029913,1, Women's V-Neck Tee Charcoal,8,12,0.3,0.5,0.125,0
+GGOEGAAJ032616,6, Men's Short Sleeve Badge Tee Charcoal,48,8,0.5,0.8,0.125,0
+GGOEGAAX0281,1, Women's Short Sleeve Badge Tee Grey,8,8,0.4,1.3,0.125,0
+GGOEGAAX0733,1, Women's Short Sleeve Hero Tee Heather,1,7,0.1,0.7,1,0
+GGOEAAEB028314,1,Android Women's Short Sleeve Hero Tee Black,1,11,0,0.1,1,0
+GGOEGAYR068225,1, Youth Short Sleeve Tee Red,1,9,0,0.1,1,0
+GGOEGATH060717,1, Women's Convertible Vest-Jacket Sea Foam Green,1,12,0.1,0.2,1,0
+GGOEGAAL010615,2, Men's 100% Cotton Short Sleeve Hero Tee Navy,66,14,0,0.1,0.03030303,0
+GGOEYAFB073113,3, Men's Fleece Hoodie Black,99,11,0.2,0.4,0.03030303,0
+GGOEGALL074613,1, Women's Short Sleeve Badge Tee Navy,33,8,0.5,0.8,0.03030303,0
+GGOEGAPB057813,2,Women's Performance Full Zip Jacket Black,33,14,0.9,1.4,0.060606061,0
+GGOEGAEA030415,2, Womens 3/4 Sleeve Baseball Raglan Heather/Black,33,15,0.7,1.1,0.060606061,0
+GGOEAAEJ035713,2,Android Men's Vintage Tank,15,10,0.1,0.2,0.133333333,0
+GGOEGAAX0618,2, Infant Short Sleeve Tee Red,15,18,0.8,1.3,0.133333333,0
+GGOEGETB023799,56, Power Bank,210,7,-0.2,0.5,0.266666667,4
+GGOEGAFB035817,4, Men's  Zip Hoodie,15,14,0.7,1.1,0.266666667,0
+GGOEGAEJ028016,1, Women's Short Sleeve Hero Tee Grey,51,6,0.5,0.8,0.019607843,0
+GGOEGAAJ032817,2, Men's Long & Lean Tee Charcoal,102,17,0.7,1.1,0.019607843,0
+GGOEGALQ036614,1, Women's Scoop Neck Tee White,52,19,0,0.1,0.019230769,0
+GGOEGAAX0761,1,Android Stretch Fit Hat Black,52,19,0.8,1.3,0.019230769,0
+GGOEGAEJ028113,1, Women's Short Sleeve Badge Tee Grey,26,15,0.3,0.6,0.038461538,0
+GGOEGAAX0280,2, Women's Short Sleeve Hero Tee Grey,52,19,0.1,0.7,0.038461538,0
+GGOEGAFB035814,4, Men's  Zip Hoodie,156,14,0.7,1,0.025641026,0
+GGOEWCKQ085457,1, Pack of 9 Decal Set,39,18,0.2,0.4,0.025641026,0
+GGOEGCBC074299,5, Device Stand,195,15,0.8,0.4,0.025641026,0
+GGOEGETR014599,1, Tube Power Bank,72,8,-0.2,0.7,0.013888889,0
+GGOEGAAX0352,2,Android Men's Vintage Henley,37,15,-0.1,0.3,0.054054054,0
+GGOEGAAX0107,1, Men's 100% Cotton Short Sleeve Hero Tee Red,72,8,0.7,1.8,0.013888889,0
+GGOEAAWN062649,1,Android Infant Short Sleeve Tee Pink,18,8,0.3,0.6,0.055555556,0
+GGOEGAEC033113,2, Men's Long Sleeve Raglan Ocean Blue,36,18,0.3,0.6,0.055555556,0
+GGOEGADJ056813,3, Men's Watershed Full Zip Hoodie Grey,54,9,0.5,0.8,0.055555556,0
+GGOEGAAX0579,1, Women's Short Sleeve Performance Tee Charcoal,18,11,-0.2,0.9,0.055555556,0
+GGOENEBB081499,4, Cam Indoor Security Camera - CA,72,19,0.8,1.3,0.055555556,0
+GGOEAAEH035215,3,Android Men's Vintage Henley,27,19,0.1,0.2,0.111111111,0
+GGOEGAEC033117,1, Men's Long Sleeve Raglan Ocean Blue,9,18,0.5,0.9,0.111111111,0
+GGOEGAAX0661,2, Toddler Short Sleeve Tee Red,17,13,0.4,0.6,0.117647059,0
+GGOEAAWT061748,4,Android Onesie Gold,34,9,0.7,1.2,0.117647059,0
+GGOEGAAX0578,2, Women's Performance Full Zip Jacket Black,17,13,-0.4,0.4,0.117647059,0
+GGOEAXXX0812,1,Android Men's Take Charge Short Sleeve Tee Purple,19,15,-0.2,0.2,0.052631579,0
+GGOEGAAX0357,3,Android Men's Vintage Tank,57,10,0.2,0.9,0.052631579,0
+GGOEGATH060714,1, Women's Convertible Vest-Jacket Sea Foam Green,19,6,0.8,1.3,0.052631579,0
+GGOEGAAX0364,6, Women's Tee Grey,40,13,-0.3,0.1,0.15,0
+GGOEGAAX0671,6, Toddler Short Sleeve Tee White,40,10,0.8,1.3,0.15,0
+GGOEGAEJ031316,1, Tri-blend Hoodie Grey,11,10,0.1,0.3,0.090909091,0
+GGOEGAAX0619,3, Infant Short Sleeve Tee Royal Blue,33,11,0.9,1.4,0.090909091,0
+GGOEYAFB073116,2, Men's Fleece Hoodie Black,22,12,0.1,0.2,0.090909091,0
+GGOEAXXX0808,5,Android Men's Engineer Short Sleeve Tee Charcoal,55,11,0,0.4,0.090909091,0
+GGOEAAAJ080814,4,Android Men's Engineer Short Sleeve Tee Charcoal,22,6,0.8,1.2,0.181818182,0
+GGOEGAPB057816,2,Women's Performance Full Zip Jacket Black,11,10,0.9,1.4,0.181818182,0
+GGOEGAAX0283,2,Android Women's Short Sleeve Hero Tee Black,11,7,0.7,1.8,0.181818182,0
+GGOEGAAX0326,1, Men's Short Sleeve Badge Tee Charcoal,12,11,0.5,1.5,0.083333333,0
+GGOEGAXR065129,1, Toddler Short Sleeve Tee Red,12,7,0.1,0.3,0.083333333,0
+GGOEGALJ036413,1, Women's Tee Grey,12,16,0.3,0.6,0.083333333,0
+GGOEAAAB034914,1,Android BTTF Moonshot Graphic Tee,12,5,0.2,0.4,0.083333333,0
+GGOEGAEJ029915,1, Women's V-Neck Tee Charcoal,3,5,0.2,0.4,0.333333333,0
+GGOEYAAJ033015,11, Men's Long & Lean Tee Charcoal,33,10,0.5,0.8,0.333333333,0
+GGOEGALJ036414,2, Women's Tee Grey,23,19,0.4,0.7,0.086956522,0
+GGOEGAAJ032613,4, Men's Short Sleeve Badge Tee Charcoal,46,7,0.4,0.7,0.086956522,0
+GGOEGAAX0569,1, Men's Performance Full Zip Jacket Black,54,12,-0.4,0.3,0.018518519,0
+GGOEGAAX0290,1, Women's Short Sleeve Hero Tee Charcoal,54,16,0.5,1.4,0.018518519,0
+GGOEGADB059614,1, Men's Quilted Insulated Vest Black,27,8,0.3,0.6,0.037037037,0
+GGOEYAAB031813,1, Men's Short Sleeve Hero Tee Black,27,6,0.7,1.2,0.037037037,0
+GGOEGAAB010517,2, Men's 100% Cotton Short Sleeve Hero Tee Black,50,8,0.3,0.6,0.04,0
+GGOEGALL074615,1, Women's Short Sleeve Badge Tee Navy,25,9,0.8,1.2,0.04,0
+GGOEGAEJ030815,1, Women's Long Sleeve Blended Cardigan Charcoal,25,13,0.9,1.4,0.04,0
+GGOEGAAX0568,3, Men's Watershed Full Zip Hoodie Grey,75,17,-0.3,0.4,0.04,0
+GGOEGATB060615,1, Women's Convertible Vest-Jacket Black,25,8,0.5,0.9,0.04,0
+GGOEGAAJ059113,1, Men's Short Sleeve Performance Badge Tee Pewter,25,16,0.9,1.3,0.04,0
+GGOEGAXJ065555,3, Toddler Short Sleeve T-shirt Grey,93,6,0.6,1,0.032258065,0
+GGOEGAEJ031313,2, Tri-blend Hoodie Grey,62,16,0.9,1.4,0.032258065,0
+GGOEGAYB068024,3, Youth Baseball Raglan Heather/Black,21,18,0.9,1.4,0.142857143,0
+GGOEGAWQ062248,1, Infant Short Sleeve Tee White,7,8,0.7,1.1,0.142857143,0
+GGOEGAAX0602,3, Women's 1/4 Zip Performance Pullover Black,21,12,0.3,1.1,0.142857143,0
+GGOEGAAJ080613,1, Men's Bike Short Sleeve Tee Charcoal,29,16,0.2,0.3,0.034482759,0
+GGOEAAEJ030913,2,Android Women's Long Sleeve Blended Cardigan Grey,58,12,0.9,1.3,0.034482759,0
+GGOEAHPB076113,1,Android Stretch Fit Hat,10,14,0.3,0.5,0.1,0
+GGOEYAAB031816,2, Men's Short Sleeve Hero Tee Black,20,19,0.1,0.3,0.1,0
+GGOEGAWQ062250,3, Infant Short Sleeve Tee White,30,13,0.8,1.3,0.1,0
+GGOEGATB060213,7, Women's 1/4 Zip Performance Pullover Black,35,14,0.6,1,0.2,0
+GGOEGAER029713,5, Women's Short Sleeve Hero Tee Red Heather,25,17,0.7,1.2,0.2,0
+GGOEGAEJ031314,9, Tri-blend Hoodie Grey,45,17,0.9,1.4,0.2,0
+GGOEAAEH035217,2,Android Men's Vintage Henley,10,19,0.2,0.4,0.2,0
+GGOEGAXQ067129,5, Toddler Short Sleeve Tee White,12,5,0.7,1.1,0.416666667,0
+GGOEGXXX0806,5, Men's Bike Short Sleeve Tee Charcoal,12,7,0.7,1.8,0.416666667,0
+GGOEGALB036514,8, Women's Scoop Neck Tee Black,154,5,0.3,0.5,0.051948052,0
+GGOEGAAX0299,4, Women's V-Neck Tee Charcoal,77,8,0.8,1.9,0.051948052,0
+GGOEAHPJ004213,2,Android Stretch Fit Hat S/M,53,12,0.6,1,0.037735849,0
+GGOEGAAJ080614,2, Men's Bike Short Sleeve Tee Charcoal,53,16,0,0.1,0.037735849,0
+GGOEGAAX0308,1, Women's Long Sleeve Blended Cardigan Charcoal,37,18,-0.2,0.1,0.027027027,0
+GGOEGAEJ030814,1, Women's Long Sleeve Blended Cardigan Charcoal,37,8,0,0.2,0.027027027,0
+GGOEGALB034117,4, Women's Vintage Hero Tee Black,74,13,0.2,0.4,0.054054054,0
+GGOEAOCB077499,2,Android RFID Journal,86,9,0.3,0.3,0.023255814,0
+GGOEGAAX0342,4, Women's Vintage Hero Tee White,172,14,0.1,0.8,0.023255814,0
+GGOEAAEH035214,1,Android Men's Vintage Henley,43,15,0.7,1.1,0.023255814,0
